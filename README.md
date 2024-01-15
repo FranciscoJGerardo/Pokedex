@@ -1,2 +1,2 @@
 # Pokedex
-Simple practicem, using fetch and poke appi 
+Simple practice, using fetch and poke api 
